@@ -22,5 +22,4 @@ Welcome to my DFIR portfolio. This repository contains hands-on forensic investi
 ---
 
 ## 🔗 Credentials & Verification
-* **LinkedIn:** [رابط حسابك]
-* **Credly Badges:** [رابط حسابك في كريبدلي]
+* **Credly Badges:** (https://www.credly.com/users/akram-hamad-eljack)
