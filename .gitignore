@@ -1,0 +1,17 @@
+# Digital Forensics Evidence & Large Files
+*.raw
+*.vmem
+*.dd
+*.E01
+*.pcap
+*.pcapng
+*.mem
+*.img
+*.dmp
+*.ad1
+*.vmdk
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
