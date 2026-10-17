@@ -15,3 +15,14 @@
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Volatility Cache & Temp Files
+*.cache
+/artifacts/*
+!/artifacts/.gitkeep
+
+# Python & Environment
+__pycache__/
+*.pyc
+.env
+.venv/
