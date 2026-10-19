@@ -5,6 +5,7 @@ Welcome to my DFIR portfolio. This repository contains hands-on forensic investi
 ---
 
 ## 🛠️ Tools & Technologies
+
 * **Disk & File Analysis:** Autopsy, FTK Imager, Eric Zimmerman Tools (EZ Tools)
 * **Memory Forensics:** Volatility 3, DumpIt
 * **Network Forensics:** Wireshark, Brim
@@ -22,4 +23,5 @@ Welcome to my DFIR portfolio. This repository contains hands-on forensic investi
 ---
 
 ## 🔗 Credentials & Verification
-* **Credly Badges:** (https://www.credly.com/users/akram-hamad-eljack)
+
+* **Credly Badges:** (<https://www.credly.com/users/akram-hamad-eljack>)
